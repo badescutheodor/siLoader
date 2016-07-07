@@ -8,6 +8,8 @@ Clone the repository and copy the minified folder content inside your project js
 ```
 $("image").siLoader();
 
+OR
+
 $("image").siLoader(function() {
     // $(this) is the loaded image
     $(this).fadeIn();
